@@ -5,7 +5,7 @@
   ### Bug Bounty Hunter | Desarrollador Web | Entusiasta de la Seguridad Informática
 
   [![GitHub followers](https://img.shields.io/github/followers/gnzsec?style=social)](https://github.com/gnzsec)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/gnzsec?style=social)](https://twitter.com/gnzsec)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/gnzsec?style=social)](https://twitter.com/gnzdev)
   [![Website](https://img.shields.io/badge/Website-Portafolio-blue)](https://gnzsec.com)
 </div>
 
