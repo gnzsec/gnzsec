@@ -1,22 +1,23 @@
 <div align="center">
-  <img src="assets/images/logo.svg" alt="Hackademia Logo" width="200"/>
+  <img src="assets/images/logo.svg" alt="Logo" width="200"/>
   
-  # Bienvenido(a), soy Fidel Acevedo 👋
-  ### Bug Bounty Hunter | Red Team | Vibe Coder
+  # Bienvenido(a), soy Hav0kr 👋
+  ### Bug Bounty Hunter | Desarrollador Web | Entusiasta de la Seguridad Informática
 
-  [![GitHub followers](https://img.shields.io/github/followers/tuusuario?style=social)](https://github.com/tuusuario)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/tuusuario?style=social)](https://twitter.com/tuusuario)
-  [![Website](https://img.shields.io/badge/Website-Hackademia-blue)](https://hackademia.com)
+  [![GitHub followers](https://img.shields.io/github/followers/gnzsec?style=social)](https://github.com/gnzsec)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/gnzsec?style=social)](https://twitter.com/gnzsec)
+  [![Website](https://img.shields.io/badge/Website-Portafolio-blue)](https://gnzsec.com)
 </div>
 
 ---
 
 ## 🚀 Sobre Mí
 
-Soy un apasionado de la ciberseguridad ofensiva y el desarrollo de soluciones web innovadoras.  
-Como fundador de **Hackademia**, mi misión es democratizar el acceso a la educación en seguridad informática, formando a la próxima generación de profesionales en Bug Bounty y Pentesting.
+Soy un apasionado de la ciberseguridad ofensiva, especializado en Bug Bounty y análisis de vulnerabilidades web.  
+Mi enfoque combina la innovación técnica con una visión estratégica para detectar, reportar y mitigar vulnerabilidades en sistemas y aplicaciones modernas.
 
-Comprometido con la excelencia técnica y el aprendizaje continuo, busco impulsar proyectos que combinen la creatividad con la mejora de la seguridad en el entorno digital.
+Busco no solo encontrar fallos, sino también aportar valor a las organizaciones a través de reportes de alta calidad y soluciones sostenibles.  
+Creo firmemente en el aprendizaje continuo, la colaboración y el fortalecimiento de la comunidad de seguridad.
 
 ---
 
@@ -24,11 +25,11 @@ Comprometido con la excelencia técnica y el aprendizaje continuo, busco impulsa
 
 <div align="center">
   
-  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)](https://github.com/gnzsec)
+  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=gnzsec&show_icons=true&theme=radical)](https://github.com/gnzsec)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=radical)](https://github.com/gnzsec)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gnzsec&layout=compact&theme=radical)](https://github.com/gnzsec)
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tuusuario&theme=radical)](https://github.com/gnzsec)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gnzsec&theme=radical)](https://github.com/gnzsec)
   
 </div>
 
@@ -50,21 +51,21 @@ Comprometido con la excelencia técnica y el aprendizaje continuo, busco impulsa
 
 <div align="center">
   
-  [![Hackademia Card](https://github-readme-stats.vercel.app/api/pin/?username=tuusuario&repo=hackademia&theme=radical)](https://github.com/tuusuario/hackademia)
+  [![Proyecto Card](https://github-readme-stats.vercel.app/api/pin/?username=gnzsec&repo=proyecto-destacado&theme=radical)](https://github.com/gnzsec/proyecto-destacado)
   
 </div>
 
-**Hackademia** es más que una plataforma: es una comunidad comprometida con la formación de cazadores de bugs y profesionales de la seguridad web mediante metodologías prácticas, desafíos reales y contenido de vanguardia.
+*(Nota: Actualiza el nombre del repositorio en el enlace anterior si deseas destacar uno específico.)*
 
 ---
 
 ## 🎯 Objetivos 2024
 
-- 🚀 Lanzar **Hackademia v2.0** con nuevos módulos de aprendizaje interactivo.
-- 👨‍🎓 Alcanzar **1.000 estudiantes activos** en nuestra plataforma.
-- ✍️ Publicar **50 writeups** de hallazgos en programas de Bug Bounty.
-- 🤝 Contribuir a **10 proyectos Open Source**, fortaleciendo la colaboración en la comunidad de seguridad informática.
-- 🌎 Expandir Hackademia a nivel internacional, ofreciendo contenido en español e inglés.
+- 🚀 Reportar vulnerabilidades válidas en plataformas de Bug Bounty líderes.
+- 🛡️ Perfeccionar metodologías de explotación avanzada y automatización de hallazgos.
+- ✍️ Publicar writeups técnicos de vulnerabilidades reportadas y reconocidas.
+- 🤝 Contribuir activamente en proyectos Open Source de seguridad ofensiva.
+- 🌐 Consolidar una presencia profesional en plataformas internacionales de ciberseguridad.
 
 ---
 
@@ -72,19 +73,19 @@ Comprometido con la excelencia técnica y el aprendizaje continuo, busco impulsa
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuusuario)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tuusuario)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gnzsec)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/gnzsec)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu@email.com)
   
 </div>
 
-Estoy siempre abierto a nuevas oportunidades de colaboración, innovación y aprendizaje.
+Estoy abierto a propuestas de colaboración, investigación y contribuciones en iniciativas de seguridad digital.
 
 ---
 
 ## 📈 Actividad Reciente
 
-![Gráfico de Contribuciones](https://activity-graph.herokuapp.com/graph?username=tuusuario&theme=react-dark)
+![Gráfico de Contribuciones](https://activity-graph.herokuapp.com/graph?username=gnzsec&theme=react-dark)
 
 ---
 
@@ -92,18 +93,19 @@ Estoy siempre abierto a nuevas oportunidades de colaboración, innovación y apr
   
   ### 👀 Contador de Visitas
   
-  ![Visitor Count](https://profile-counter.glitch.me/tuusuario/count.svg)
+  ![Visitor Count](https://profile-counter.glitch.me/gnzsec/count.svg)
   
 </div>
 
 ---
 
 <div align="center">
-  ⭐️ Creado con pasión y visión de futuro por [Hav0kr](https://github.com/tuusuario)
+  ⭐️ Creado por [gnzsec](https://github.com/gnzsec) — Siempre enfocado en la innovación y la mejora continua.
 </div>
 
 ---
 
 ## 🔥 Nota de Innovación
 
-**Próximamente:** Integraré dinámicamente mis últimos hallazgos de vulnerabilidades públicas y contribuciones a plataformas como HackerOne, Bugcrowd y OpenBugBounty directamente en este README mediante GitHub Actions, mostrando la evolución constante de mis habilidades.
+**Próximamente:** Automatizaré la integración de hallazgos recientes en plataformas de Bug Bounty a este perfil mediante GitHub Actions, consolidando un historial de impacto y evolución profesional.
+
